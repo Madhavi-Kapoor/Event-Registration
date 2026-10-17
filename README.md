@@ -272,12 +272,6 @@ event_registration.py
 
 ---
 
-## 📄 License
-
-This project is free to use for learning and personal projects. Add a license of your choice if you plan to share it publicly.
-
----
-
 ## 👩‍💻 Author
 
 **Madhavi Kapoor**
